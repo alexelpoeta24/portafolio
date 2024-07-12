@@ -4,7 +4,7 @@
 
 | **Nombre y Apellidos** |         **Correo**         |               **GitHub**               |
 | :--------------------: | :------------------------: | :------------------------------------: |
-|  Alex Manuel Gomez Salazar | salsarflaco@gmail.com | [@](https://github.com/) |
+|  Alex Manuel Gomez Salazar | salsarflaco@gmail.com | [@](https://github.com/alexelpoeta24) |
 
 ## Desarrollador Web Front-End
 
